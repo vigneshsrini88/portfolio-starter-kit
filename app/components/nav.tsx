@@ -2,10 +2,10 @@ import Link from 'next/link'
 
 const navItems = {
   '/': {
-    name: 'home',
+    name: 'Home',
   },
   '/blog': {
-    name: 'blog',
+    name: 'Portfolio',
   },
   'https://www.linkedin.com/in/vignesh-srinivasan-45125111b/': {
     name: 'Linkedin',
